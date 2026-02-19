@@ -17,7 +17,9 @@ pip install whatiz
 
 The `whatiz` command will be automatically added to your PATH!
 
+### For Linux (Debian and Arch based)
 ### Using pipx (For isolated environments)
+
 
 ```bash
 pipx install whatiz
